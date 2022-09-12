@@ -1,9 +1,8 @@
-# Node JS Backend template
+# Calendar App Backend
 
-# Getting Started with Node JS Backend template
+# Getting Started with Calendar App Backend
 
-Node JS + Express + Mongo + JWT Backend.
-This template includes an API example for create, authenticate and renew users.
+Node JS + Express + Mongo + JWT Backend for calendar app.
 
 ## Available Scripts
 
